@@ -1,0 +1,1 @@
+Electron based screenshoter. Basic edition :D
